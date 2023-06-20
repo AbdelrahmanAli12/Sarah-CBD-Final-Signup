@@ -44,15 +44,15 @@ nav ul li:not(:last-child) {
 
 .logo {
   top: 0;
-  margin-left:70%;
+  margin-left:80%;
   padding: 10px;
   margin-top: 30px;
   right: 1;
 }
 
 .logo img {
-  height: 20vh;
-  width: 20vh;
+  height: 15vh;
+  width: 15vh;
   
  
 }
@@ -68,19 +68,19 @@ nav button{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
-    margin-right: 5vh;
+    background-color: rgb(255, 255, 255);
 }
 
 .box{
-width: 40vh;
-height: 50vh;
-background-color: #afafaf;
-margin: 5vh;
+width: 30vh;
+height: 30vh;
+background-color: #ffffff;
 border-radius: 40px;
+margin: 5vh;
 }
 #box2{
-    margin-top: 15%;
+    margin-top: 7%;
+    background-color: #000000;
 }
 #circle{
     background-color: #f1f1f1;
@@ -102,7 +102,7 @@ border-radius: 40px;
 
 }
 #bigBox{
-    width:75%;
+    width:120vh;
     height: 50vh;
     background-color: #afafaf;
     border-radius: 40px;
@@ -118,14 +118,14 @@ border-radius: 40px;
 }
 
 .text{
-    width: 40%;
-    height: 10vh;
-    background-color: #afafaf;
+    width: 60vh;
+    height: 13vh;
+    background-color: #ffffff;
     border-radius: 2vh;
     text-align: center;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    
+
+   
 }
 
 .signup{
